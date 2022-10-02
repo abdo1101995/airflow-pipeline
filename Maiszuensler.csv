@@ -1,0 +1,225 @@
+Town;Person;Date;Year;Grain or Silage;Previous culture;Tillagesystem;Trichogramma;Severity
+Belp;as;16.08.2022;2022;;;;;0
+Gerzensee;as;16.08.2022;2022;;;;;0
+Zollikofen (Kirchlindach);so;23.08.2022;2022;Silage;;;Yes;0
+Utzenstorf;fs;15.08.2022;2022;;;;;0
+Oberacker Direktsaat;fs;15.08.2022;2022;;;Notill;Yes;0
+Bueren z. H.;ts;07.09.2020;2020;;;;;0
+Gampelen 1;sz;07.09.2020;2020;;;;;0
+Gampelen 2;sz;07.09.2020;2020;;;;;0
+Belp;as;20.09.2021;2021;;;;;0
+Gerzensee;as;20.09.2021;2021;;;;;0
+Rubigen;as;20.09.2021;2021;;;;;0
+Kirchlindach;so;20.09.2021;2021;;;;;0
+Utzenstorf;bp;20.09.2021;2021;;;;;0
+Zollikofen ;ef;20.09.2021;2021;;;;;0
+Gampelen;sz;09.09.2018;2018;;;;No;0
+Gerzensee;as;28.08.2018;2018;Silage;wheat;Striptill;Yes;0
+Gerzensee;as;09.09.2019;2019;;;;Yes;0
+Kirchlindach;so;09.09.2019;2019;;;;Yes;0
+Krauchthal;as;16.09.2019;2019;;;;Yes;0
+Gampelen 2;sz;13.09.2019;2019;;;;Yes;0
+Wengi b. B.;;10.09.2017;2017;;;;;0
+Arni BE;;10.09.2009;2009;Silage;;Plowing;No;0
+Hasle b. Burgdorf;;10.09.2009;2009;Silage;;Plowing;No;0
+Rosshaeusern;;10.09.2009;2009;Silage;;Notill;No;0
+Zollbrueck;;10.09.2009;2009;Silage;;Plowing;No;0
+Arch;sz;31.08.2015;2015;;;;No;0
+Englisberg;sw;31.08.2015;2015;;wheat;Plowing;No;0
+Biglen;sw;03.09.2015;2015;;Corn;Plowing;No;0
+Rubigen;as;16.08.2022;2022;;;;;0.01
+Mbsee;so;23.08.2022;2022;Silage;;;Yes;0.01
+Wengi b. B.;fs;15.08.2022;2022;;;;Yes;0.01
+Gampelen;sz;17.08.2022;2022;;;;;0.01
+Wengi b. B.;vb;07.09.2020;2020;Silage;;;;0.01
+Gampelen;sz;20.09.2021;2021;;;;;0.01
+Kirchlindach;so;28.08.2018;2018;Silage;Temporary ley;Striptill;Yes;0.01
+Muenchenb.;so;28.08.2018;2018;Silage;Temporary ley;Striptill;Yes;0.01
+Suberg;ts;03.09.2018;2018;Silage;Sugar beet;Striptill;Yes;0.01
+Wengi b. B.;ts;03.09.2018;2018;grain maize;;Reduced Tillage;Yes;0.01
+Wengi b. B.;ts;23.09.2019;2019;;;Reduced Tillage;Yes;0.01
+Bueren z. H.;;10.09.2017;2017;;;;;0.01
+Krauchthal;;10.09.2017;2017;Silage;;;Yes;0.01
+Gerzensee;bp;07.09.2020;2020;;;;;0.02
+Mbsee;so;20.09.2021;2021;;;;;0.02
+Uettligen;so;20.09.2021;2021;;;;;0.02
+Bueren z. H.;ts;03.09.2018;2018;;;;Yes;0.02
+Krauchthal;as/lg;29.08.2018;2018;Silage;Temporary ley;Plowing;Yes;0.02
+Zollikofen;as;28.08.2018;2018;Silage;Sunflower;;;0.02
+Uettligen;so;09.09.2019;2019;;;;Yes;0.02
+Uettligen;so;14.09.2020;2020;;;;Yes;0.03
+Seedorf;so;20.09.2021;2021;;;;;0.03
+Rubigen;as;16.09.2019;2019;;;;Yes;0.03
+Gampelen;;10.09.2017;2017;;;;No;0.03
+Wengi;;26.09.2016;2016;;;;;0.03
+Zollikofen ;fs;15.08.2022;2022;;;;;0.04
+Wangen a. A.;vb;07.09.2020;2020;Silage;;;;0.04
+Bueren z. H.;ts;23.09.2019;2019;;;Striptill;Yes;0.04
+Rubigen;;21.09.2016;2016;;;;;0.04
+Utzenstorf;;26.09.2016;2016;;;;No;0.04
+Oberacker Pflug;fs;15.08.2022;2022;;;Plowing;Yes;0.05
+Belp;bp;07.09.2020;2020;;;;;0.05
+Belp;bp;07.09.2020;2020;;;;;0.05
+Mbsee;so;14.09.2020;2020;;Barley;Striptill;Yes;0.05
+Wangen a. A.;bp;20.09.2021;2021;;;;;0.05
+Gerzensee;;10.09.2017;2017;Silage;;;Yes;0.05
+Seedorf;;10.09.2017;2017;Silage;;;No;0.05
+Gerzensee;;21.09.2016;2016;;;;;0.05
+Bueren zum Hof;;03.10.2016;2016;;;;No;0.05
+Uettligen;so;23.08.2022;2022;grain maize;;;Yes;0.06
+Zollikofen ;vb;07.09.2020;2020;Silage;;;;0.06
+Belp;as;28.08.2018;2018;Silage;Barley;Notill;Yes;0.06
+Gampelen 1;sz;13.09.2019;2019;;;;No;0.06
+Rubigen;;10.09.2017;2017;Silage;;;;0.06
+Seedorf;so;07.09.2020;2020;;;;;0.07
+Rubigen;as;28.08.2018;2018;Silage;wheat;Notill;Yes;0.07
+Belp;as;09.09.2019;2019;;;;Yes;0.07
+Utzenstorf;ts;23.09.2019;2019;;;;;0.07
+Zollikofen ;as;12.09.2019;2019;;;;Yes;0.07
+Seedorf;;21.09.2016;2016;Silage;;;No;0.07
+Utzenstorf;;10.09.2017;2017;;;;;0.08
+"Wangen an  
+der Aare 1";;21.09.2016;2016;Silage;;;No;0.08
+Zollikofen;;21.09.2016;2016;;;;;0.08
+Utzenstorf;bp;07.09.2020;2020;;;;;0.09
+Wangen a. A.;fs;15.08.2022;2022;;;;;0.1
+Belp;;10.09.2017;2017;grain maize;;;Yes;0.1
+"Wangen an 
+der Aare 2";;21.09.2016;2016;Silage;;;No;0.1
+Zollikofen;;10.09.2017;2017;Silage;;;No;0.12
+Suberg;so;23.09.2019;2019;;;;;0.13
+Belp;;21.09.2016;2016;;;;;0.13
+Seedorf;so;09.09.2019;2019;;;Notill;;0.16
+Seedorf;so;23.08.2022;2022;Silage;;Notill;Yes;0.17
+Thunstetten;;21.09.2016;2016;Silage;;;No;0.18
+Seedorf;so;03.09.2018;2018;;Temporary ley;Striptill;No;0.2
+Wangen a. A.;;10.09.2017;2017;;;;;0.24
+Kirchberg BE;;10.09.2009;2009;Silage;;Plowing;No;0.01
+Lotzwil;;10.09.2009;2009;Silage;;Striptill;No;0.01
+Oppligen;;10.09.2009;2009;Silage;;Plowing;No;0.01
+Schuepbach;;10.09.2009;2009;Silage;;Plowing;No;0.01
+Zimmerwald;;10.09.2009;2009;Silage;;Reduced Tillage;No;0.01
+Hindelbank;so;16.09.2011;2011;;Barley;Plowing;;0.01
+Hindelbank;so;10.09.2012;2012;;Corn;Plowing;Yes;0.01
+Hindelbank;ts;30.09.2014;2014;;;Plowing;No;0.01
+Noflen BE;so;19.09.2011;2011;;;;;0.01
+Englisberg;bu;14.09.2011;2011;;Temporary ley;Plowing;No;0.01
+Biglen;bu;07.09.2010;2010;;;Plowing;No;0.01
+Rubigen;bu;08.09.2011;2011;;wheat;Plowing;Yes;0.01
+Muenchenbuchsee;H. Ramseier;22.09.2010;2010;;;;;0.01
+Worb;bu;07.09.2010;2010;;Corn;Notill;;0.01
+Worb;sw;03.09.2015;2015;;;;Yes;0.01
+Haeusernmoos;;10.09.2009;2009;Silage;;Plowing;No;0.02
+Krauchthal;;10.09.2009;2009;Silage;;Striptill;No;0.02
+Noflen BE;sw;25.09.2013;2013;;Canola;Striptill;No;0.02
+Noflen BE;sw;31.08.2015;2015;;Canola;Striptill;No;0.02
+Muenchenbuchsee;H. Ramseier;13.09.2011;2011;;Barley;Striptill;Yes;0.02
+Muenchenbuchsee;andere;16.09.2015;2015;;Temporary ley;Striptill;Yes;0.02
+Ranflueh;;10.09.2009;2009;Silage;;Plowing;No;0.03
+Arch;sz;15.09.2014;2014;;wheat;Notill;;0.03
+Englisberg;ts;30.09.2014;2014;;;Plowing;No;0.03
+Biglen;ts;30.09.2014;2014;;;Plowing;No;0.03
+Muenchenbuchsee;H. Ramseier;25.09.2012;2012;;Peas;Striptill;Yes;0.03
+Gurbrue;;10.09.2009;2009;grain maize;;Plowing;No;0.04
+Wynigen;;10.09.2009;2009;Silage;;Notill;No;0.04
+Zollikofen 3;;10.09.2009;2009;Silage;;Reduced Tillage;Yes;0.04
+Roggwil;mg;25.09.2010;2010;;;Striptill;Yes;0.04
+Hindelbank;so;17.09.2010;2010;;Corn;Plowing;;0.04
+Rubigen;bu;07.09.2012;2012;;Temporary ley;Plowing;Yes;0.04
+Murgenthal;mg;29.09.2010;2010;;;;Yes;0.04
+Guemmenen;;10.09.2009;2009;Silage;;Plowing;No;0.05
+Lyssach 1;;10.09.2009;2009;grain maize;;Plowing;Yes;0.05
+Schlosswil;;10.09.2009;2009;Silage;;Plowing;No;0.05
+Englisberg;bu;05.09.2012;2012;;wheat;Plowing;No;0.05
+Englisberg;ts;30.09.2014;2014;;;Plowing;No;0.05
+Worb;bu;13.09.2011;2011;;Corn;Notill;Yes;0.05
+Guemmenen;;10.09.2009;2009;Silage;;Plowing;No;0.06
+Herrenschwanden;;10.09.2009;2009;Silage;;Striptill;No;0.06
+Huttwil 1;;10.09.2009;2009;Silage;;Plowing;No;0.06
+Suberg 2;;10.09.2009;2009;Silage;;Notill;Yes;0.06
+Rosshaeusern;ts;24.09.2014;2014;;;Plowing;Yes;0.06
+Biglen;bu;29.08.2012;2012;;wheat;Plowing;;0.06
+Biglen;sw;18.09.2013;2013;;;Plowing;No;0.06
+Lyssach 2;;10.09.2009;2009;grain maize;;Reduced Tillage;Yes;0.07
+Madiswil;;10.09.2009;2009;Silage;;Plowing;No;0.07
+Trimstein;;10.09.2009;2009;Silage;;Notill;No;0.07
+Jens;so;03.09.2015;2015;;wheat;Striptill;No;0.07
+Belp;sw;31.08.2015;2015;;wheat;Notill;Yes;0.07
+Arch;sz;05.09.2012;2012;;wheat;Notill;No;0.07
+Murgenthal;mg;06.09.2012;2012;;Peas;Striptill;Yes;0.07
+Roggwil BE 2;;10.09.2009;2009;grain maize;;Striptill;Yes;0.08
+Ruetschelen;;10.09.2009;2009;grain maize;;Striptill;No;0.08
+Zollikofen 1;;10.09.2009;2009;Silage;;Reduced Tillage;Yes;0.08
+Krauchthal;so;16.09.2011;2011;;Temporary ley;Reduced Tillage;;0.08
+Englisberg;bu;07.09.2010;2010;;wheat;Plowing;No;0.08
+Wichtrach;;10.09.2009;2009;Silage;;Plowing;No;0.09
+Wangen an der Aare;mg;25.09.2010;2010;;;;;0.09
+Worb;sw;18.09.2013;2013;;wheat;Notill;Yes;0.09
+Suberg;so;16.09.2011;2011;;Corn;Reduced Tillage;Yes;0.1
+Rosshaeusern;so;23.09.2010;2010;;;;;0.1
+Rubigen;bu;07.09.2010;2010;;Temporary ley;Plowing;Yes;0.1
+Aefligen;;10.09.2009;2009;Silage;;Striptill;No;0.11
+Alchenstorf;;10.09.2009;2009;grain maize;;Plowing;No;0.11
+Huttwil 2;;10.09.2009;2009;Silage;;Striptill;No;0.11
+Melchnau;;10.09.2009;2009;grain maize;;Notill;No;0.11
+Roggwil;mg;10.09.2011;2011;;;;;0.11
+Worb;bu;29.08.2012;2012;;Triticale;Notill;No;0.11
+Bettenhausen;;10.09.2009;2009;grain maize;;Plowing;No;0.12
+Herrenschwanden;;10.09.2009;2009;Silage;;Striptill;No;0.12
+Zollikofen 2;;10.09.2009;2009;Silage;;Reduced Tillage;Yes;0.12
+Noflen BE;bu;07.09.2010;2010;;;Plowing;No;0.12
+Heimenhausen;;10.09.2009;2009;grain maize;;Striptill;No;0.13
+Hindelbank 2;;10.09.2009;2009;Silage;;Reduced Tillage;No;0.13
+Rosshaeusern;so;10.09.2012;2012;;wheat;Plowing;Yes;0.13
+Murgenthal;mg;10.09.2011;2011;;;;Yes;0.13
+Grossaffoltern;so;16.09.2011;2011;;Canola;Plowing;;0.13
+Bargen BE;;10.09.2009;2009;Silage;;Reduced Tillage;No;0.14
+Koppigen;;10.09.2009;2009;grain maize;;Plowing;No;0.14
+Englisberg;sw;17.09.2013;2013;;;Plowing;No;0.14
+Rosshaeusern;so;31.08.2015;2015;;;Plowing;Yes;0.15
+Rubigen;sw;17.09.2013;2013;;wheat;Reduced Tillage;Yes;0.15
+Wiedlisbach;mg;10.09.2011;2011;;;;No;0.15
+Grossaffoltern;so;21.09.2010;2010;;wheat;Plowing;;0.15
+Bern;;10.09.2009;2009;Silage;;Notill;No;0.16
+Hindelbank 1;;10.09.2009;2009;Silage;;Striptill;No;0.16
+Suberg 1;;10.09.2009;2009;Silage;;Notill;Yes;0.16
+Noflen BE;bu;29.08.2012;2012;;Canola;Striptill;No;0.16
+Arch;sz;10.09.2011;2011;;;;No;0.17
+Wangen an der Aare;mg;05.09.2012;2012;;Temporary ley;Plowing;No;0.17
+Krauchthal;so;10.09.2012;2012;;Temporary ley;Reduced Tillage;No;0.18
+Ochlenberg;;10.09.2009;2009;Silage;;Plowing;No;0.19
+Wiedlisbach;;10.09.2009;2009;Silage;;Striptill;No;0.19
+Wangen an der Aare;ts;29.09.2014;2014;;Temporary ley;Plowing;Yes;0.19
+Niederbipp;;10.09.2009;2009;;;Reduced Tillage;No;0.2
+Walperswil;;10.09.2009;2009;Silage;;Plowing;No;0.2
+Wangen an der Aare;mg;10.09.2011;2011;;;Plowing;Yes;0.21
+Rubigen;ts;25.09.2014;2014;;;Reduced Tillage;Yes;0.21
+Suberg;ts;23.04.2014;2014;;Sugar beet;Reduced Tillage;Yes;0.22
+Belp;bu;10.09.2011;2011;;wheat;Notill;No;0.23
+Roggwil;mg;06.09.2012;2012;;Barley;Striptill;No;0.24
+Suberg;so;21.09.2010;2010;;Corn;Reduced Tillage;;0.24
+Rosshaeusern;so;16.09.2011;2011;;;Plowing;Yes;0.24
+Bern;;10.09.2009;2009;grain maize;;Reduced Tillage;No;0.25
+Rubigen;sw;03.09.2015;2015;;Corn;Plowing;Yes;0.26
+Kappelen;;10.09.2009;2009;Silage;;Plowing;No;0.27
+Roggwil BE 1;;10.09.2009;2009;grain maize;;Plowing;No;0.27
+Arch;so;17.09.2010;2010;;;;;0.29
+Worb;ts;30.09.2014;2014;;Corn;Reduced Tillage;Yes;0.29
+Jens;so;17.09.2012;2012;;;Notill;;0.31
+Grossaffoltern;so;17.09.2012;2012;;Corn;Plowing;;0.32
+Jens;sz;13.09.2011;2011;;Temporary ley;Striptill;;0.33
+Wiedlisbach;mg;05.09.2012;2012;;wheat;Notill;No;0.33
+Krauchthal;ts;30.09.2014;2014;;Temporary ley;Reduced Tillage;No;0.34
+Wiedlisbach;mg;27.09.2010;2010;;;;No;0.35
+Belp;bu;06.07.2010;2010;;wheat;Notill;;0.36
+Krauchthal;so;17.09.2010;2010;;Corn;Notill;;0.37
+Suberg;so;10.09.2012;2012;;Sugar beet;Reduced Tillage;Yes;0.39
+Ipsach;;10.09.2009;2009;Silage;;Plowing;No;0.4
+Jens;so;10.09.2010;2010;;;;;0.42
+Suberg;ts;24.09.2014;2014;;Temporary ley;Striptill;Yes;0.43
+Belp;ts;24.09.2014;2014;;;Notill;Yes;0.43
+Lobsigen;;10.09.2009;2009;Silage;;Plowing;No;0.49
+Diemerswil;;10.09.2009;2009;grain maize;;Plowing;No;0.66
+Attiswil;;10.09.2009;2009;Silage;;Notill;No;0.67
+Belp;sw;16.09.2013;2013;;;Notill;No;0.67
+Limpach;;10.09.2009;2009;grain maize;;Plowing;No;0.69
